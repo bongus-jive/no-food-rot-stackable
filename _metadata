@@ -8,5 +8,5 @@
   "steamContentId" : "3484118105",
   "steamDescription" : "patch for no food rotting that also makes them stackable\n\nthe way i made no food rotting made this addon really, really simple so i decided to just make it really quickly :)\n\nstill requires [url=https://github.com/OpenStarbound/OpenStarbound]OpenStarbound[img]https://i.imgur.com/GlY6bda.png[/img][/url].\nand also [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3484110634]the original mod obviously[/url]\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/no-food-rot-stackable\n",
   "tags" : "Food and Farming",
-  "version" : "1.0"
+  "version" : "1.0.1"
 }
